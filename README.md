@@ -2,6 +2,7 @@
 Repo that holds the privacy policy document for the PictoDiary app.
 
 PRIVACY POLICY MODEL FOR PictoDiary
+Released on Sep 10, 2017
 
  
 
