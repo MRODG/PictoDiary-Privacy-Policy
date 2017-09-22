@@ -1,4 +1,4 @@
-# ODG-Privacy-Policy
+# ODG Apps-Privacy-Policy
 Repo that holds the privacy policy document for the ODG apps.
 
 Released on Sep 10, 2017
