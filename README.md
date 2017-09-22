@@ -1,12 +1,11 @@
-# PictoDiary-Privacy-Policy
-Repo that holds the privacy policy document for the PictoDiary app.
+# ODG-Privacy-Policy
+Repo that holds the privacy policy document for the ODG apps.
 
-PRIVACY POLICY MODEL FOR PictoDiary
 Released on Sep 10, 2017
 
  
 
-This privacy policy governs your use of the software application PictoDiary (“Application”) for mobile devices that was created by Marios Odigie. The Application is PictoDiary is a personal and social platform. It's a diary app that allows a user to capture daily activities and memories in writing and in the form of photos and store there an electronic Diary. 
+This privacy policy governs your use of the software applications release by ODG Apps developer for mobile devices that was created by Marios Odigie. The collection of our current applications are from the Social adn Tools categories. 
 
  
 
@@ -18,9 +17,9 @@ User Provided Information:
 
 
 
-The Application obtains the information you provide when you download and register the Application. To make use of the services registration with us is required.  
+Our applications obtain the information you provide when you download and register. To make use of the services of our apps registration with us is required.  
 
-When you register with us and use the Application, you generally provide (a) your name, email address, user name, password and other registration information;  
+When you register with us and use our applications, you generally provide (a) your name, email address, user name, password and other registration information;  
 
 
 
@@ -28,29 +27,29 @@ Automatically Collected Information:
 
  
 
-This application does not make use of any automatically collected information practices. We only collect the information you provide during registration with the app.
+Our applications do not make use of any automatically collected information practices. We only collect the information you provide during registration with the app.
 
  
 
  
 
-Does the Application collect precise real time location information of the device?
+Does any  application collect precise real time location information of the device?
 
  
 
-This Application does not collect precise information about the location of your mobile device. 
+Our applications do not collect precise information about the location of your mobile device. 
 
  
 
-Do third parties see and/or have access to information obtained by the Application?
+Do third parties see and/or have access to information obtained by the Applications?
 
- No, information obtained by the application is not shared with third parties at any time. 
+ No, information obtained by any of our application is not shared with third parties at any time. 
 
   
 
 Data Retention Policy, Managing Your Information:
 
-We will retain User Provided data for as long as you use the Application, once your account is deleted via within the app  all data is discarded.  
+We will retain User Provided data for as long as you use the Application, once your account is deleted via within the app or uninstalled  all data is discarded.  
 
 Children:
 
@@ -76,7 +75,7 @@ This Privacy Policy may be updated from time to time for any reason. We will not
 
 Your Consent:
 
-By using the Application, you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us. 
+By using our applications, you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us. 
 
  
 
